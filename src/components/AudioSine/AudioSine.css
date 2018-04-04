@@ -1,0 +1,9 @@
+.AudioSine {
+    width: 100vw;
+    height: 30vh;
+}
+
+.Nav {
+    display: inline-block;
+    padding: 5px 10px;
+}
